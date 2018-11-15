@@ -33,7 +33,6 @@ img:nth-child(4) {
   display: none;
 }
 
-
 @media only screen and (min-width: 25em) {
 
   img {
@@ -52,6 +51,7 @@ img:nth-child(4) {
   img:nth-child(4) {
     display: inline-block;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -72,7 +72,9 @@ img:nth-child(4) {
   img:nth-child(4) {
     display: inline-block;
   }
+
 }
+
 @media only screen and (min-width: 60em) {
 
   img {
@@ -95,4 +97,5 @@ img:nth-child(4) {
   img:nth-child(4) {
     display: inline-block;
   }
+
 }
